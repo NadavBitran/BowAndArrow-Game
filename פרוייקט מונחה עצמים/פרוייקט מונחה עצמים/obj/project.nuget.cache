@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ju6Yxql98LsDChrA2N2i3MtnAZiOTf0jBqQaGazUJgKVAr8PAvDFTnalf5bQpAahTGigFKzAlnaCT/VudxBUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadav\\Downloads\\פרוייקט מונחה עצמים (4)\\פרוייקט מונחה עצמים\\פרוייקט מונחה עצמים\\פרוייקט מונחה עצמים.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

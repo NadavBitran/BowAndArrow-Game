@@ -1,0 +1,67 @@
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.exe
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.deps.json
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.json
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.dev.json
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.AssemblyReference.cache
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.loadingForm.resources
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.Properties.Resources.resources
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.GenerateResource.cache
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfoInputs.cache
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfo.cs
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.CoreCompileInputs.cache
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.genruntimeconfig.cache
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameMenu.resources
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.levelMenu.resources
+C:\Users\nadav\source\repos\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameInProgress.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.exe
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.deps.json
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.json
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.dev.json
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.AssemblyReference.cache
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.loadingForm.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameInProgress.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameMenu.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.levelMenu.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.Properties.Resources.resources
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.GenerateResource.cache
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfoInputs.cache
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfo.cs
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.CoreCompileInputs.cache
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+D:\c# project\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.genruntimeconfig.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.AssemblyReference.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.exe
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.deps.json
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.json
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.runtimeconfig.dev.json
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.pdb
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.loadingForm.resources
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameInProgress.resources
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.gameMenu.resources
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.levelMenu.resources
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט_מונחה_עצמים.Properties.Resources.resources
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.GenerateResource.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfoInputs.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.AssemblyInfo.cs
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.CoreCompileInputs.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.genruntimeconfig.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\Interop.WMPDXMLib.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\Interop.WMPLauncher.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\obj\Debug\netcoreapp3.1\פרוייקט מונחה עצמים.csproj.ResolveComReference.cache
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\Interop.WMPDXMLib.dll
+C:\Users\nadav\Downloads\פרוייקט מונחה עצמים (4)\פרוייקט מונחה עצמים\פרוייקט מונחה עצמים\bin\Debug\netcoreapp3.1\Interop.WMPLauncher.dll
