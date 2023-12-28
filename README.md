@@ -5,7 +5,7 @@ Test your archery skills through 12 levels, where you'll face a variety of targe
 
 The product of a final project of the object-oriented programming course
 
-![Example Video](./Video%20Example/BowAndArrow%20Gameplay.mp4)
+![Example Video](./Video%20Example/BowAndArrow%20Gameplay.gif)
 
 ## How to Play?
 
